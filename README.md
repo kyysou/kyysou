@@ -16,4 +16,4 @@
 
 <p align="center"
 
-![image](https://github.com/user-attachments/assets/1afe5424-9bea-483d-a82b-4a56f943a4a2)
+![image](https://github.com/user-attachments/assets/6da5daa6-9093-4f3b-9248-3d5cd83b1b38)
