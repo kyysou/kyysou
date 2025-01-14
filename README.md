@@ -10,7 +10,7 @@
 
  <p align="center"
 
-<!(https://github.com/user-attachments/assets/7e74a560-131b-46b9-9036-845186f11c24)" alt="alt text" width="400" height="200">
+<![image](https://github.com/user-attachments/assets/7e74a560-131b-46b9-9036-845186f11c24)" alt="alt text" width="400" height="200">
 </p>
 </p>
 <p align="center"
