@@ -6,11 +6,12 @@
 <img src="https://komarev.com/ghpvc/?username=kysouu&color=bab9b5">
  <p align="center"
  
- ![image](https://github.com/user-attachments/assets/0a4ba589-1151-4dbe-bb5c-9d31133f939a)| width=100)
+ ![image](https://github.com/user-attachments/assets/0a4ba589-1151-4dbe-bb5c-9d31133f939a)
 
  <p align="center"
 
-![e8cf325af3b05c770fbef7f5885ff160](https://github.com/user-attachments/assets/7e74a560-131b-46b9-9036-845186f11c24)
+<img src="(https://github.com/user-attachments/assets/7e74a560-131b-46b9-9036-845186f11c24)" alt="alt text" width="400" height="200">
+
 
 <p align="center"
 
