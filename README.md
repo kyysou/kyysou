@@ -10,7 +10,7 @@
 
  <p align="center"
 
-![e8cf325af3b05c770fbef7f5885ff160](https://github.com/user-attachments/assets/c3306f7e-72d2-4bb9-bddd-de6247ed1fcf)
+![e8cf325af3b05c770fbef7f5885ff160](https://github.com/user-attachments/assets/7e74a560-131b-46b9-9036-845186f11c24)
 
 <p align="center"
 
