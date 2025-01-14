@@ -7,20 +7,7 @@
  <p align="center"
  
  ![image](https://github.com/user-attachments/assets/0a4ba589-1151-4dbe-bb5c-9d31133f939a) 
-<p align="center"
 
-![image](https://github.com/user-attachments/assets/9e0bc41a-dced-42d1-bad8-6bcf66484a2a)‎ 
- ‎ 
- ‎ 
-<p align="center"
- 
- wip
- <p align="center"
-  
-some interests are hsr, linkclick, p:eg and jjk
-<p align="center"
-  
-I also really like cats they're so very cute. the ocean is cool too.
 ‎ 
 ‎ 
 <p align="center"
