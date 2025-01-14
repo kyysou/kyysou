@@ -30,4 +30,4 @@
 
 <p align="center"
  
-<sub><sup> ${\textsf{\color{#ffadce} i am not dating [pix](https://www.patreon.com/pixsies/about), she is a liar}}$
+<sub><sup> ${\textsf{\color{#ffadce}i am not dating [pix](https://www.patreon.com/pixsies/about), she is a liar}}$
