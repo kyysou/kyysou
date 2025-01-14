@@ -8,7 +8,7 @@
 
 <p align="center"
  
-![image](https://github.com/user-attachments/assets/fc842e81-c3f4-4873-bd71-22155ad1e622)
+ ![image](https://github.com/user-attachments/assets/0a4ba589-1151-4dbe-bb5c-9d31133f939a)
 
 <p align="center"
 
@@ -17,4 +17,4 @@
 
 ![image](https://github.com/user-attachments/assets/f5bf6e3d-93b5-427f-82a4-6c34a9b7bc5f)
 
-![image](https://github.com/user-attachments/assets/0a4ba589-1151-4dbe-bb5c-9d31133f939a)
+![image](https://github.com/user-attachments/assets/fc842e81-c3f4-4873-bd71-22155ad1e622)
