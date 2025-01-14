@@ -30,4 +30,4 @@
 
 <p align="center"
  
-<sub><sup> i am not dating pix, she is a liar
+<sub><sup> i am not dating [pix](https://www.patreon.com/pixsies/about), she is a liar
