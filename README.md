@@ -17,8 +17,9 @@
  <p align="center"
   
 some interests are hsr, linkclick, p:eg and jjk
-‎ 
-‎ 
+<p align="center"
+  
+I also really like cats they're so very cute. the ocean is cool too.
 ‎ 
 ‎ 
 <p align="center"
