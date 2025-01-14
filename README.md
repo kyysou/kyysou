@@ -14,7 +14,7 @@
 </p>
 <p align="center"
 
- ִֶָ.. 𓂃 ࣪ ִֶָ۶ৎ awake within a dream
+  awake within a dream
 
  <p align="center"
 
