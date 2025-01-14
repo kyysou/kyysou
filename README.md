@@ -1,3 +1,3 @@
 <p align="center">
-  
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=kysouu)
+
+<img src="https://komarev.com/ghpvc/?username=kysouu&color=bab9b5">
