@@ -30,4 +30,4 @@
 
 <p align="center"
  
-<sub><sup> ${\textsf{\color{#ffadce} i am not dating pix, she is a liar }}$ </sup></sub>   
+<sub><sup> ${\textsf{\color{#888786} i am not dating pix, she is a liar }}$ </sup></sub>   
