@@ -19,7 +19,7 @@
  <p align="center">
 
  
- <img src="https://github.com/kyysou/kyysou/blob/4cb162aee2ac74212028b61235ea794b6799f42b/173733779373690881.gif" alt=" " width="410" height="384"/>
+ <img src="https://github.com/kyysou/kyysou/blob/4cb162aee2ac74212028b61235ea794b6799f42b/173733779373690881.gif" alt=" " width="390" height="360"/>
 
 <br/>
 
