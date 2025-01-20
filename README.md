@@ -30,11 +30,6 @@
 <p align="center"
 
 atabook coming soon
-
-<p align="center"
-
-other wip info
-
 <br/>
 ‎ 
 <p align="center"
