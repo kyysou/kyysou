@@ -16,7 +16,7 @@
 
   𝒂𝘸𝘢𝘬𝘦 𝘸𝘪𝘵𝘩𝘪𝘯 𝘢 𝘥𝘳𝘦𝘢𝘮. .
 
- <p align="center"
+ <p align="center">
 
  
  <img src="https://github.com/kyysou/kyysou/blob/9559f3665651d88fb8ae3b148c9c7cd7e995e407/sundayart.jpg" alt=" " width="384" height="384"/>
