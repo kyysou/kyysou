@@ -24,15 +24,15 @@ image
 
 <p align="center" 
 
- [x] ky [x] info [x]
+ ky 
 
 <p align="center"
 
-[x] info [x] info
+atabook coming soon
 
 <p align="center"
 
-[x] [x] info [x] info
+other wip info
 
 <br/>
 ‎ 
