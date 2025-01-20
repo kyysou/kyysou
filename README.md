@@ -20,9 +20,8 @@
 
 image
 
-<pre>
+<br/>
 
- 
 <p align="center" 
 
  [x] ky [x] info [x]
@@ -35,9 +34,7 @@ image
 
 [x] [x] info [x] info
 
-
- 
- </pre>
+<br/>
 ‎ 
 <p align="center"
 
