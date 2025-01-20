@@ -6,7 +6,7 @@
 <img src="https://komarev.com/ghpvc/?username=kysouu&color=bab9b5">
  <p align="center"
  
- ![image](https://github.com/user-attachments/assets/0a4ba589-1151-4dbe-bb5c-9d31133f939a)
+ image
 
  <p align="center"
 
