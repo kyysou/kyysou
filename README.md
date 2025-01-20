@@ -18,7 +18,7 @@
 
  <p align="center"
 
- <img src="https://github.com/kyysou/kyysou/blob/main/2676e0d1d8557b393788f696393f07f7.jpg" alt=" " width="384" height="384">
+ <img src="https://github.com/kyysou/kyysou/blob/main/2676e0d1d8557b393788f696393f07f7.jpg" alt=" " width="384" height="384" />
 
 <br/>
 
