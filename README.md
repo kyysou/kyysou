@@ -18,7 +18,7 @@
 
  <p align="center"
 
-![Image](https://github.com/user-attachments/assets/9900a2e5-b120-4e9a-a447-b093874b568c)
+ image
 
 <br/>
 
