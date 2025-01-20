@@ -22,7 +22,15 @@ image
 
 <p align="center"
 
- wip
+ [x] info [x] info [x]
+
+<p align="center"
+
+[x] info [x] info
+
+<p align="center"
+
+[x] [x] info [x] info
 ‎ 
 <p align="center"
 
