@@ -18,7 +18,7 @@
 
  <p align="center"
 
- <img src="link" alt=" " width="x" height="x">
+ <img src="link" alt=" " width="384" height="384">
 
 <br/>
 
