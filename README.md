@@ -22,7 +22,7 @@ image
 
 <p align="center"
 
- [x] info [x] info [x]
+ [x] ky [x] info [x]
 
 <p align="center"
 
