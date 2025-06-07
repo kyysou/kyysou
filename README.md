@@ -44,4 +44,4 @@ atabook coming soon
 
 <p align="center"
  
-<sub><sup><code><span style="color:#888786;">i am not dating pix, she is a liar</span></code></sup></sub>
+ <sub><sup><span style="color:#888786;">i am not dating pix, she is a liar</span></sup></sub>
