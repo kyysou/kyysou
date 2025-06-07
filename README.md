@@ -44,4 +44,4 @@ atabook coming soon
 
 <p align="center"
  
-<sub><sup> ${\textsf{\color{#888786} i am not dating pix, she is a liar }}$ </sup></sub>   
+<sub><sup><code><span style="color:#888786;">i am not dating pix, she is a liar</span></code></sup></sub>
