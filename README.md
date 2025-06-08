@@ -30,7 +30,7 @@
 <p align="center"
 
 <p align="center">
-  <a href="https://kysou.atabook.org/">atabook</a>
+  <a href="https://kysou.atabook.org/" style="color:#888786; text-decoration: none;">atabook</a>>atabook</a>
 <br/>
 ‎ 
 <p align="center"
