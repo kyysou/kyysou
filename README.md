@@ -27,6 +27,8 @@
 
  placeholder 
 
+ <p align="center"
+
  freakazoidisorder sorry
 
 <p align="center"
